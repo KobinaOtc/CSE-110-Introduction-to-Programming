@@ -1,5 +1,5 @@
 '''
-Conditionals are to right logic where a certain result demands a certian action
+Conditionals are used to write logic where a certain result demands a certian action
 The way to start writing a conditional is to us the key word 'if'
 Example:
 
@@ -15,7 +15,7 @@ if something == something:
 else:
     do_something_else
 
-The elif key word is used to write more complex if state requiring multiple verification
+The elif key word is used to write more complex if statements requiring multiple verification
 example:
 if something_1 == something_2:
     do_something
